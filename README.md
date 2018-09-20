@@ -1,5 +1,4 @@
 # hello-world
 Just another respository
 
-Hi liangmm!
-  work hard!
+Hi liangmm!      work hard!
